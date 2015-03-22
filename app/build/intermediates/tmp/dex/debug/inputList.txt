@@ -1,0 +1,9 @@
+C:\Users\Sugarcoder\AndroidStudioProjects\TumblrSnap\app\build\intermediates\classes\debug
+C:\Users\Sugarcoder\AndroidStudioProjects\TumblrSnap\app\build\intermediates\pre-dexed\debug\codepath-utils-c59fb4476066719fcd08127d92eb92b9a2ff6d8c.jar
+C:\Users\Sugarcoder\AndroidStudioProjects\TumblrSnap\app\build\intermediates\pre-dexed\debug\codepath-android-view-helpers-0.1.0-71e3cadd8a2346cea0fc70aa9446aebbb25cbfb0.jar
+C:\Users\Sugarcoder\AndroidStudioProjects\TumblrSnap\app\build\intermediates\pre-dexed\debug\codepath-oauth-0.2.3-acc927e0e28941814866c3bac71de38d37fb90cf.jar
+C:\Users\Sugarcoder\AndroidStudioProjects\TumblrSnap\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.3-f79a7289642c89eaef695c76e49dbf3a18373f1c.jar
+C:\Users\Sugarcoder\AndroidStudioProjects\TumblrSnap\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.4-1dc9233fc9250e36999592c4955dcb0633faf8e2.jar
+C:\Users\Sugarcoder\AndroidStudioProjects\TumblrSnap\app\build\intermediates\pre-dexed\debug\scribe-499e1bb4fa58dabbfe64a9167c8b647b71867628.jar
+C:\Users\Sugarcoder\AndroidStudioProjects\TumblrSnap\app\build\intermediates\pre-dexed\debug\androidjhlabs-f684bd5317db1772730fbd5ea0aeb090cff6fa3b.jar
+C:\Users\Sugarcoder\AndroidStudioProjects\TumblrSnap\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-5bd7c411b3c495a692c53d4b9578f40bdfd2159d.jar
