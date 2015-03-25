@@ -7,7 +7,7 @@
 
 - User can sign in using OAuth login flow
 - User can view global feed of photos created by any TumblrSnap client
-- User can take a picture, apply a filter, and upload that image to tumblr
+- User can take a picture
 
 <br>
 <img src="http://i1369.photobucket.com/albums/ag238/sugarcoder/CodePath/Tumblr1_zpsirqhtlgd.png" border="0" alt=" photo Tumblr1_zpsirqhtlgd.png" width="300" height="450" />
