@@ -1,7 +1,24 @@
-tumblrsnap
-==========
+# Tumblr Snap
 
-A fun photos app built on Tumblr. Used for our CodePath bootcamp.
+- This is a Tumblr image application
 
-**Note**: The main branch has certain key code removed specifically focused around interacting with the gallery and the camera. 
-This is an intentional part of the assignment to fill this code back in to make the app work.
+
+## User Stories:
+
+- User can sign in using OAuth login flow
+- User can view global feed of photos created by any TumblrSnap client
+- User can take a picture, apply a filter, and upload that image to tumblr
+
+<br>
+<img src="http://i1369.photobucket.com/albums/ag238/sugarcoder/CodePath/Tumblr1_zpsirqhtlgd.png" border="0" alt=" photo Tumblr1_zpsirqhtlgd.png" width="300" height="450" />
+<br>
+
+### Acknowledgements:
+
+- <a href="http://www.codepath.com">CodePath</a>
+- CodePath Android Observer Group February 2015
+- Special Shout Out: Thanks to Dianna @CoderRed99 and all the awesome Engineers that guided me on becoming a better programmer each day!
+
+ 
+
+
